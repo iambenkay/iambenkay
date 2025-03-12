@@ -11,7 +11,8 @@ X: https://x.com/benkaythe1st
 
 ### I am working on...
 1. [WasmLang](https://github.com/iambenkay/wasmlang) - a type-safe programming language that compiles to WebAssembly.
-2. [MLC Flutter](https://github.com/iambenkay.mlc_flutter) - a flutter wrapper for mlcswift. Allows you to interact with an on-device LLM from a flutter app. Not cross-platform yet.
+2. [MLC Flutter](https://github.com/iambenkay/mlc_flutter) - a flutter wrapper for mlcswift. Allows you to interact with an on-device LLM from a flutter app. Not cross-platform yet.
+3. [Sixelf](https://sixelf.com) - a contribution tracking tool for designers. Imports contributions from Figma and creates a heatmap out of it. Automatically updates regularly.
 
 <!--
 **iambenkay/iambenkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
