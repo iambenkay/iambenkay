@@ -1,13 +1,8 @@
-# Benjamin Chibuzor-Orie
+# BENKAY
 ### Senior Software Engineer & Maker
 I specialize in optimizing software systems and helping businesses scale their technology efficiently. With a focus on performance improvement, software design, and architecture, I work closely with teams to implement smart, sustainable solutions.
 
 From startups to established companies, I’m passionate about solving complex problems, streamlining processes, and driving innovation in the tech space. Let’s connect to discuss how we can transform your software for growth and success.
-
-### You can reach me on...
-Email: benjamincath@gmail.com  
-Linkedin: https://linkedin.com/in/benkaythe1st  
-X: https://x.com/benkaythe1st
 
 ### I am working on...
 1. [WasmLang](https://github.com/iambenkay/wasmlang) - a type-safe programming language that compiles to WebAssembly.
